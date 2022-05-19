@@ -1,0 +1,5 @@
+﻿  Game.cpp
+C:\Users\Uporabnik\source\repos\KlikPop\KlikPop\Game.cpp(172,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Uporabnik\source\repos\KlikPop\KlikPop\Game.cpp(279,21): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Uporabnik\source\repos\KlikPop\KlikPop\Game.cpp(380,32): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  KlikPop.vcxproj -> C:\Users\Uporabnik\source\repos\KlikPop\x64\Debug\KlikPop.exe

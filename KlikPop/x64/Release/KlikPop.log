@@ -1,0 +1,69 @@
+﻿  About.cpp
+C:\Users\Uporabnik\source\repos\KlikPop\KlikPop\About.cpp(103,97): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Uporabnik\source\repos\KlikPop\KlikPop\About.cpp(103,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  EndMenu.cpp
+C:\Users\Uporabnik\source\repos\KlikPop\KlikPop\EndMenu.cpp(183,96): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Uporabnik\source\repos\KlikPop\KlikPop\EndMenu.cpp(183,72): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Game.cpp
+C:\Users\Uporabnik\source\repos\KlikPop\KlikPop\Game.cpp(172,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Uporabnik\source\repos\KlikPop\KlikPop\Game.cpp(279,20): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Uporabnik\source\repos\KlikPop\KlikPop\Game.cpp(380,34): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  main.cpp
+C:\Users\Uporabnik\source\repos\KlikPop\KlikPop\main.cpp(21,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Uporabnik\source\repos\KlikPop\KlikPop\main.cpp(21,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  MainMenu.cpp
+  Options.cpp
+C:\Users\Uporabnik\source\repos\KlikPop\KlikPop\Options.cpp(456,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Uporabnik\source\repos\KlikPop\KlikPop\Options.cpp(461,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Uporabnik\source\repos\KlikPop\KlikPop\Options.cpp(466,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Uporabnik\source\repos\KlikPop\KlikPop\Options.cpp(471,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Uporabnik\source\repos\KlikPop\KlikPop\Options.cpp(512,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 466 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  KlikPop.vcxproj -> C:\Users\Uporabnik\source\repos\KlikPop\x64\Release\KlikPop.exe
